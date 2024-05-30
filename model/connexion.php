@@ -2,9 +2,9 @@
 session_start();
 
 $nom_serveur = "localhost";
-$nom_base_de_donne = "gestion_stock_dclic";
-$utilisateur = "root";
-$motpass = "";
+$nom_base_de_donne = "emch3935_keyce";
+$utilisateur = "emch3935_keyce";
+$motpass = "n+ZR5eDYw2.N}!N";
 
 try {
     $connexion = new PDO("mysql:host=$nom_serveur;dbname=$nom_base_de_donne", $utilisateur, $motpass);

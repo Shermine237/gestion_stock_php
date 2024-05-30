@@ -22,8 +22,8 @@ include_once '../model/function.php';
 
     <div class="sidebar hidden-print">
         <div class="logo-details">
-            <i class="bx bxl-c-plus-plus"></i>
-            <span class="logo_name">K-STORE</span>
+            <i class='bx bx-code-alt'></i>
+            <span class="logo_name">KYC-STORE</span>
         </div>
         <ul class="nav-links">
             <li>

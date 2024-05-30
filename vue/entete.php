@@ -23,7 +23,7 @@ include_once '../model/function.php';
     <div class="sidebar hidden-print">
         <div class="logo-details">
             <i class="bx bxl-c-plus-plus"></i>
-            <span class="logo_name">D-CLIC</span>
+            <span class="logo_name">K-STORE</span>
         </div>
         <ul class="nav-links">
             <li>
@@ -83,7 +83,7 @@ include_once '../model/function.php';
             <li>
                 <a href="#">
                     <i class="bx bx-book-alt"></i>
-                    <span class="links_name">Tout les commmandes</span>
+                    <span class="links_name">Toutes les commmandes</span>
                 </a>
             </li>
             <li>
